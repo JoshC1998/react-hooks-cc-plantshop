@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cookie ",
+      "image": "https://www.dessertfortwo.com/wp-content/uploads/2023/04/Single-Serve-Chocolate-Chip-Cookie-5-735x1103.jpg",
+      "price": "100000",
+      "id": 8
+    },
+    {
+      "name": "Cookie ",
+      "image": "https://www.dessertfortwo.com/wp-content/uploads/2023/04/Single-Serve-Chocolate-Chip-Cookie-5-735x1103.jpg",
+      "price": "10000",
+      "id": 9
     }
   ]
 }
